@@ -8,17 +8,18 @@ A modern, highly responsive, interactive **single-page Curriculum Vitae (CV) & P
 
 ---
 
-## 👤 Student Information
+## 👤 Student Information & Project Details
 
-* **Complete Name:** Jeverly Shane B. Capote
+* **Project Title:** Personal Curriculum Vitae & Professional Portfolio Web Application
+* **Student Name:** Jeverly Shane B. Capote
 * **Program & Year Level:** Bachelor of Science in Information Technology (BSIT), College (2023–Present, Expected AY 2026–2027)
 * **Institution:** Davao del Norte State College (DNSC) – Institute of Computing
+* **Live Vercel Link:** [https://jeverly-shane-capote-cv.vercel.app](https://jeverly-shane-capote-cv.vercel.app)
+* **GitHub Repository:** [https://github.com/capotejeverlyshane/My_CV_V2](https://github.com/capotejeverlyshane/My_CV_V2)
 * **Location:** Panabo City, Davao del Norte, Philippines
 * **Contact Number:** 0945-594-2592
 * **Email Address:** capotejeverlyshane@gmail.com
-* **GitHub Profile:** [github.com/capotejeverlyshane](https://github.com/capotejeverlyshane)
 * **Facebook Profile:** [facebook.com/jeverlyshane.capote.9](https://www.facebook.com/jeverlyshane.capote.9)
-* **Vercel Account:** [https://vercel.com/jev6](https://vercel.com/jev6)
 
 ---
 
