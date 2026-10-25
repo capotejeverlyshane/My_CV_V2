@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cvGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="100%" stop-color="#042f2e" />
+    </linearGradient>
+    <linearGradient id="emGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" rx="12" fill="url(#cvGrad)" />
+  <rect width="600" height="38" rx="12" fill="#04121a" />
+  <rect y="26" width="600" height="12" fill="#04121a" />
+  <circle cx="24" cy="19" r="6" fill="#ef4444" />
+  <circle cx="44" cy="19" r="6" fill="#f59e0b" />
+  <circle cx="64" cy="19" r="6" fill="#10b981" />
+  <rect x="180" y="10" width="240" height="18" rx="6" fill="#11222f" opacity="0.8" />
+  <text x="300" y="23" fill="#94a3b8" font-family="sans-serif" font-size="10" text-anchor="middle">capote-jeverlyshane.vercel.app</text>
+
+  <!-- Split CV Mockup -->
+  <rect x="40" y="60" width="160" height="270" rx="10" fill="#0c1a24" stroke="#134e4a" stroke-width="1.5" />
+  <circle cx="120" cy="110" r="32" fill="#1e293b" stroke="#10b981" stroke-width="2" />
+  <text x="120" y="115" fill="#34d399" font-family="sans-serif" font-size="18" text-anchor="middle" font-weight="bold">JC</text>
+  <rect x="60" y="160" width="120" height="12" rx="4" fill="#f8fafc" />
+  <rect x="75" y="180" width="90" height="8" rx="3" fill="#10b981" />
+  <rect x="55" y="206" width="130" height="6" rx="3" fill="#334155" />
+  <rect x="55" y="218" width="115" height="6" rx="3" fill="#334155" />
+  <rect x="55" y="230" width="125" height="6" rx="3" fill="#334155" />
+  <rect x="55" y="260" width="130" height="24" rx="6" fill="url(#emGrad)" />
+  <text x="120" y="276" fill="#042f2e" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">PRINT / SAVE PDF</text>
+
+  <!-- Right Section Cards -->
+  <rect x="220" y="60" width="340" height="80" rx="8" fill="#0b1720" stroke="#134e4a" stroke-width="1" />
+  <text x="236" y="85" fill="#34d399" font-family="sans-serif" font-size="12" font-weight="bold">EDUCATION &amp; HONORS</text>
+  <text x="236" y="105" fill="#f8fafc" font-family="sans-serif" font-size="11">BS Information Technology • Davao del Norte State College</text>
+  <rect x="236" y="115" width="85" height="16" rx="8" fill="#047857" opacity="0.4" />
+  <text x="278" y="127" fill="#6ee7b7" font-family="sans-serif" font-size="9" text-anchor="middle">★ DEAN'S LIST</text>
+
+  <rect x="220" y="152" width="340" height="178" rx="8" fill="#0b1720" stroke="#134e4a" stroke-width="1" />
+  <text x="236" y="176" fill="#34d399" font-family="sans-serif" font-size="12" font-weight="bold">FEATURED PROJECTS &amp; TECH STACK</text>
+  <rect x="236" y="190" width="150" height="40" rx="6" fill="#132733" />
+  <text x="246" y="206" fill="#f8fafc" font-family="sans-serif" font-size="10" font-weight="600">Research Portal</text>
+  <text x="246" y="222" fill="#94a3b8" font-family="sans-serif" font-size="8">Laravel + MySQL</text>
+
+  <rect x="398" y="190" width="150" height="40" rx="6" fill="#132733" />
+  <text x="408" y="206" fill="#f8fafc" font-family="sans-serif" font-size="10" font-weight="600">SmartTrack QR</text>
+  <text x="408" y="222" fill="#94a3b8" font-family="sans-serif" font-size="8">JavaScript + IoT</text>
+
+  <rect x="236" y="240" width="150" height="40" rx="6" fill="#132733" />
+  <text x="246" y="256" fill="#f8fafc" font-family="sans-serif" font-size="10" font-weight="600">Enterprise Network</text>
+  <text x="246" y="272" fill="#94a3b8" font-family="sans-serif" font-size="8">Cisco CCNA</text>
+
+  <rect x="398" y="240" width="150" height="40" rx="6" fill="#132733" />
+  <text x="408" y="256" fill="#f8fafc" font-family="sans-serif" font-size="10" font-weight="600">Modern CV Web</text>
+  <text x="408" y="272" fill="#94a3b8" font-family="sans-serif" font-size="8">Vercel Deployed</text>
+  
+  <text x="236" y="310" fill="#38bdf8" font-family="sans-serif" font-size="10">✓ 100% Responsive • Smooth Animations • ATS Print Ready</text>
+</svg>
