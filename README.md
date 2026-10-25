@@ -83,7 +83,7 @@ A modern, highly responsive, interactive **single-page Curriculum Vitae (CV) & P
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/capotejeverlyshane-cmyk/My_CV_V2.git
+   git clone https://github.com/capotejeverlyshane/My_CV_V2.git
    cd My_CV_V2
    ```
 
@@ -96,7 +96,7 @@ A modern, highly responsive, interactive **single-page Curriculum Vitae (CV) & P
 ## ☁️ Vercel Deployment
 
 1. Log in to [Vercel](https://vercel.com/) with GitHub.
-2. Select your repository: `capotejeverlyshane-cmyk/My_CV_V2`.
+2. Select your repository: `capotejeverlyshane/My_CV_V2`.
 3. Set Framework Preset to **Other** (Static HTML).
 4. Click **Deploy**.
 
