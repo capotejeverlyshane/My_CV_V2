@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="vistaBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#064e3b" />
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+  </defs>
+  <!-- Window Container -->
+  <rect width="600" height="360" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  
+  <!-- Sidebar -->
+  <rect x="0" y="0" width="165" height="360" rx="12" fill="#f8fafc" />
+  <rect x="155" y="0" width="10" height="360" fill="#f8fafc" />
+  <line x1="165" y1="0" x2="165" y2="360" stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- Logo -->
+  <rect x="16" y="16" width="24" height="24" rx="6" fill="#8b5cf6"/>
+  <text x="28" y="32" fill="#ffffff" font-family="'Inter', sans-serif" font-size="12" font-weight="bold" text-anchor="middle">V</text>
+  <text x="48" y="28" fill="#0f172a" font-family="'Inter', sans-serif" font-size="12" font-weight="bold">VISTA</text>
+  <text x="48" y="38" fill="#64748b" font-family="'Inter', sans-serif" font-size="8">Citizen AI</text>
+
+  <!-- New Chat button -->
+  <rect x="16" y="52" width="133" height="28" rx="6" fill="#8b5cf6"/>
+  <text x="82" y="70" fill="#ffffff" font-family="'Inter', sans-serif" font-size="11" font-weight="600" text-anchor="middle">+ New Chat</text>
+
+  <!-- Nav links -->
+  <text x="16" y="100" fill="#94a3b8" font-family="'Inter', sans-serif" font-size="8" font-weight="700" letter-spacing="0.5">NAVIGATION</text>
+  
+  <rect x="14" y="108" width="137" height="24" rx="5" fill="#f3e8ff"/>
+  <text x="32" y="124" fill="#7e22ce" font-family="'Inter', sans-serif" font-size="10" font-weight="600">Chat Assistant</text>
+
+  <text x="32" y="148" fill="#64748b" font-family="'Inter', sans-serif" font-size="10">Government Services</text>
+  <text x="32" y="172" fill="#64748b" font-family="'Inter', sans-serif" font-size="10">Settings</text>
+
+  <!-- Recent Chats -->
+  <text x="16" y="202" fill="#94a3b8" font-family="'Inter', sans-serif" font-size="8" font-weight="700">RECENT CHATS</text>
+  <text x="16" y="222" fill="#475569" font-family="'Inter', sans-serif" font-size="9">How to apply for business...</text>
+  <text x="16" y="242" fill="#475569" font-family="'Inter', sans-serif" font-size="9">Cedula and Barangay clearance...</text>
+  <text x="16" y="262" fill="#475569" font-family="'Inter', sans-serif" font-size="9">Real property tax payment...</text>
+
+  <!-- User profile at bottom -->
+  <line x1="0" y1="310" x2="165" y2="310" stroke="#e2e8f0" stroke-width="1"/>
+  <circle cx="30" cy="335" r="14" fill="#8b5cf6"/>
+  <text x="30" y="339" fill="#ffffff" font-family="'Inter', sans-serif" font-size="9" font-weight="bold" text-anchor="middle">JS</text>
+  <text x="50" y="332" fill="#0f172a" font-family="'Inter', sans-serif" font-size="9.5" font-weight="bold">Jeverly Shane</text>
+  <text x="50" y="343" fill="#64748b" font-family="'Inter', sans-serif" font-size="8">LGU Citizen Portal</text>
+
+  <!-- Main Chat Body -->
+  <g transform="translate(165, 0)">
+    <!-- Header -->
+    <rect x="20" y="16" width="22" height="22" rx="6" fill="#8b5cf6"/>
+    <text x="31" y="31" fill="#ffffff" font-family="'Inter', sans-serif" font-size="11" font-weight="bold" text-anchor="middle">V</text>
+    <text x="50" y="27" fill="#0f172a" font-family="'Inter', sans-serif" font-size="11" font-weight="bold">VISTA Assistant</text>
+    <circle cx="135" cy="24" r="3" fill="#10b981"/>
+    <text x="142" y="27" fill="#10b981" font-family="'Inter', sans-serif" font-size="9">Online</text>
+
+    <!-- Center Hero Greeting -->
+    <text x="215" y="115" fill="#0f172a" font-family="'Inter', sans-serif" font-size="16" font-weight="800" text-anchor="middle">How can I help you today, Jeverly?</text>
+    <text x="215" y="135" fill="#64748b" font-family="'Inter', sans-serif" font-size="10.5" text-anchor="middle">Your AI-powered LGU Citizen Assistant</text>
+
+    <!-- Badges -->
+    <g transform="translate(70, 150)">
+      <rect x="0" y="0" width="85" height="20" rx="10" fill="#e0f2fe"/>
+      <text x="42" y="14" fill="#0284c7" font-family="'Inter', sans-serif" font-size="8.5" font-weight="600" text-anchor="middle">Trilingual Support</text>
+
+      <rect x="95" y="0" width="85" height="20" rx="10" fill="#fef3c7"/>
+      <text x="137" y="14" fill="#d97706" font-family="'Inter', sans-serif" font-size="8.5" font-weight="600" text-anchor="middle">Instant Answers</text>
+
+      <rect x="190" y="0" width="95" height="20" rx="10" fill="#f1f5f9"/>
+      <text x="237" y="14" fill="#475569" font-family="'Inter', sans-serif" font-size="8.5" font-weight="600" text-anchor="middle">Government Services</text>
+    </g>
+
+    <!-- Quick action chips -->
+    <g transform="translate(30, 260)">
+      <rect x="0" y="0" width="85" height="18" rx="4" fill="#f1f5f9"/>
+      <text x="42" y="13" fill="#64748b" font-family="'Inter', sans-serif" font-size="8" text-anchor="middle">Get Birth Certificate</text>
+
+      <rect x="92" y="0" width="95" height="18" rx="4" fill="#f1f5f9"/>
+      <text x="139" y="13" fill="#64748b" font-family="'Inter', sans-serif" font-size="8" text-anchor="middle">Apply Business Permit</text>
+
+      <rect x="194" y="0" width="85" height="18" rx="4" fill="#f1f5f9"/>
+      <text x="236" y="13" fill="#64748b" font-family="'Inter', sans-serif" font-size="8" text-anchor="middle">Pay Property Tax</text>
+
+      <rect x="286" y="0" width="85" height="18" rx="4" fill="#f1f5f9"/>
+      <text x="328" y="13" fill="#64748b" font-family="'Inter', sans-serif" font-size="8" text-anchor="middle">Check Requirements</text>
+    </g>
+
+    <!-- Input Box -->
+    <rect x="25" y="288" width="375" height="42" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="42" y="313" fill="#94a3b8" font-family="'Inter', sans-serif" font-size="10.5">Type your question here...</text>
+    <circle cx="378" cy="309" r="14" fill="#8b5cf6"/>
+    <path d="M374 313 L381 309 L374 305" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <text x="215" y="348" fill="#94a3b8" font-family="'Inter', sans-serif" font-size="7.5" text-anchor="middle">Powered by VISTA AI - v1.1.0 • LGU Citizen Intelligence</text>
+  </g>
+</svg>
